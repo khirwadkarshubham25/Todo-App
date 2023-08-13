@@ -1,7 +1,6 @@
 # React Todo App
 
-This is a simple Todo App built using React. It allows you to manage and track your tasks easily. You can add, edit, delete, and mark tasks as completed. The app provides a user-friendly interface for managing your daily tasks effectively.
-
+Simple To-Do App created with React. It enables simple task management and tracking. It is possible to add, update, delete, and mark jobs as finished. For efficient task management, the app offers a user-friendly interface.
 
 ### Installation
 
@@ -14,7 +13,7 @@ This is a simple Todo App built using React. It allows you to manage and track y
 2. Navigate to the project directory:
 
    ```bash
-   cd react-todo-app
+   cd todoapp
    ```
 
 3. Install the required dependencies:
@@ -41,7 +40,7 @@ The Todo App provides a clean and intuitive interface to manage your tasks. Here
 
 3. **Delete Task**: To delete a task, click on the delete icon (trash can) next to the task.
 
-4. **Mark as Completed**: To mark a task as completed, check the checkbox next to the task. You can uncheck it to mark the task as incomplete.
+4. **Mark as Completed**: To mark a task as completed, check the checkbox next to the task. Completed task will go at the end of the list. You can uncheck it to mark the task as incomplete. When you mark it as incomplete, it will got at the top of the list.
 
 ## Features
 
